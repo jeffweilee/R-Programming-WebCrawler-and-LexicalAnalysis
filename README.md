@@ -1,7 +1,7 @@
 # R-Programming-WebCrawler-and-LexicalAnalysis
 
 ## What's this?
-	- A simple social data listening tool using R programming
+	- A social data listening tool using R programming
 	- Present social platform HOT topics and keywords
 	- Take [Mobile01](http://www.mobile01.com.tw) [Android Forum] (http://www.mobile01.com.tw/forumtopic.php?c=16&s=20) for example
 
